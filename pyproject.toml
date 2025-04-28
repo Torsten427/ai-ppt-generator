@@ -5,3 +5,4 @@ description = "2026 年编程导航 AI 编程实战新项目，基于 Python Fas
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# drop an unused branch
